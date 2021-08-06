@@ -1,0 +1,13 @@
+% Plot Residual 1.2
+if(mod(it,nfrec)==0)
+% Plot configuration
+figure(9)
+
+dlr11 = plot(it,norm(rhs1)/n,'o','color',color(1,:),'LineWidth',1.2,...
+        'MarkerFaceColor',color(1,:),'MarkerEdgeColor','black',...
+        'MarkerSize',8);
+dlr12 = plot(it,norm(rhs2)/n,'d','color',color(2,:),'LineWidth',1.2,...
+        'MarkerFaceColor',color(2,:),'MarkerEdgeColor','black',...
+        'MarkerSize',8);
+legend([dlr11,dlr12],leg2,'FontSize',20,'Location','northeastoutside','interpreter','latex');
+end
