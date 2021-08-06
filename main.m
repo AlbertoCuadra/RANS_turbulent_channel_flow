@@ -113,10 +113,10 @@ mixing;
 %% TKE model
 tke;
 %% k-epsilon 
-% kepsilon;     % Chien
+% kepsilon;   % Chien
 % kepsilonRM; % Chien + fmu Rodi & Mansour
 % kepsilon2;  % Nagano-Tagawa
-kepsilon3;  % Launder-Sharmar 
+kepsilon3;    % Launder-Sharmar 
 % kepsilon4;  % Lam-Bremhorst 
 %% k-omega 
 % komega; % Not yet
