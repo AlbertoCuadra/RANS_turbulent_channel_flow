@@ -1,4 +1,4 @@
-# RANS simulation of a turbulent flow through a channel
+## RANS simulation of a turbulent flow through a channel    ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://https://github.com/AlbertoCuadra/RANS_turbulent_channel_flow/)
 
 Numerical models implemented:
 Length mixing (0 equation)
@@ -9,7 +9,7 @@ k-epsilon     (2 equations)
 Length mixing |        0        |
 TKE           |        1        |
 k-epsilon     |        2        |
-# Database
+## Database
 Data extracted from direct numerical simulations of fully developed plane
 turbulent channel flow.
 
