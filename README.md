@@ -3,12 +3,6 @@
 
 Numerical models implemented:
 
-Length mixing (0 equation)
-
-TKE           (1 equation)
-
-k-epsilon     (2 equations)
-
    Models     |  Transport eqs. |
 ------------- | --------------- |
 Length mixing |        0        |
