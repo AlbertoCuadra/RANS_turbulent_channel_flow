@@ -2,9 +2,13 @@
 ![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/RANS_turbulent_channel_flow) ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/RANS_turbulent_channel_flow)
 
 Numerical models implemented:
+
 Length mixing (0 equation)
+
 TKE           (1 equation)
+
 k-epsilon     (2 equations)
+
    Models     |  Transport eqs. |
 ------------- | --------------- |
 Length mixing |        0        |
