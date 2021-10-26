@@ -1,5 +1,7 @@
-## RANS simulation of a turbulent flow through a channel    
-![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/RANS_turbulent_channel_flow) ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/RANS_turbulent_channel_flow)
+## RANS simulation of a turbulent flow through a channel 
+[![View RANS  turbulent channel flow on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://es.mathworks.com/matlabcentral/fileexchange/101098-rans-turbulent-channel-flow)
+![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/RANS_turbulent_channel_flow)
+![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/RANS_turbulent_channel_flow)
 
 Numerical models implemented:
 
