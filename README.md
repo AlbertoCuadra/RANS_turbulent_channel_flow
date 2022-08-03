@@ -11,8 +11,7 @@ Length mixing |        0        |
 TKE           |        1        |
 k-epsilon     |        2        |
 ## Database
-Data extracted from direct numerical simulations of fully developed plane
-turbulent channel flow.
+Data extracted from direct numerical simulations of a fully developed plane turbulent channel flow.
 
 URL: [http://torroja.dmt.upm.es/channels/data/](http://torroja.dmt.upm.es/channels/data/)
 
