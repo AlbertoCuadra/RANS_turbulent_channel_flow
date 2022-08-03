@@ -9,7 +9,7 @@ An incompressible fully developed turbulent flow is considered in a channel (sta
 * TKE,
 * k-epsilon.
 
-I have included the report (written in spanish) that I wrote along the numerical code.
+Additionaly, I have included the [report](report_ES.pdf) that I wrote (in spanish) along the numerical code.
 
 ## Numerical models implemented:
 
