@@ -3,7 +3,7 @@
 ![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/RANS_turbulent_channel_flow)
 ![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/RANS_turbulent_channel_flow)
 
-An incompressible fully developed turbulent flow is considered in a channel (statistically stationary and homogeneous in directions parallel to the wall). The numerical code compares different characteristic properties of a turbulent flow, e.g., mean velocity profiles $U/u_\tau$, turbulent kinetic energy $k/u_\tau^2$, dissipation $\epsilon/(u_\tau^3/h)$, turbulent viscosity profiles $\nu_T/(u_\tau h)$, for various turbulent Reynolds numbers (Re $_\tau$ = \{180, 550, 950, 2000\})using different turbulence models:
+An incompressible fully developed turbulent flow is considered in a channel (statistically stationary and homogeneous in directions parallel to the wall). The numerical code compares different characteristic properties of a turbulent flow, e.g., mean velocity profiles $U/u_\tau$, turbulent kinetic energy $k/u_\tau^2$, dissipation $\epsilon/(u_\tau^3/h)$, turbulent viscosity profiles $\nu_T/(u_\tau h)$, for various turbulent Reynolds numbers Re $_\tau$ = \{180, 550, 950, 2000\} using different turbulence models:
 
 * Length mixing,
 * TKE,
